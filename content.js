@@ -233,6 +233,14 @@ var CONTENT = [
         {
           name: "Treehouse - Ruby Foundations",
           url: "http://teamtreehouse.com/library/programming/ruby-foundations"
+        },
+        {
+          name: "The Bastards Book of Ruby",
+          url: "http://ruby.bastardsbook.com/"
+        },
+        {
+          name: "Ruby Monk - Interactive Ruby Tutorials",
+          url: "http://rubymonk.com/"
         }
       ]
     },
